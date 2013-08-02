@@ -1,0 +1,12 @@
+{
+  "name": "local-foobar-package",
+  "version": "0.0.1",
+  "description": "local foobar package",
+  "keywords": [],
+  "author": "stagas",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": { "node": "*" }
+}
