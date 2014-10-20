@@ -6,6 +6,7 @@
   "author": "stagas",
   "license": "MIT",
   "main": "index.js",
+  "repository": "stagas/npm-server",
   "bin": {
     "npm-server": "index.js"
   },
